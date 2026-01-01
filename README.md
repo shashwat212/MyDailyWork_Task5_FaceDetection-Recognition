@@ -1,4 +1,4 @@
-# 👤 Face Detection & Recognition System
+# 👤 MyDailyWork_Task5: FaceDetection-Recognition-System
 
 A **real-time face detection-based security system** built using **Python** and **OpenCV**.  
 This project simulates a **face-based access mechanism** similar to real-world biometric systems.
